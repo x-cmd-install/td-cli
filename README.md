@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 216 · **Forks**: 11 · **Open issues**: 22 · **Contributors**: 2
+- **Stars**: 215 · **Forks**: 10 · **Open issues**: 22 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 38 · **Open PRs**: 7 · **Closed issues**: 17 · **Open issues**: 5 · **Commits**: 353
+- **Releases**: 4 · **Merged PRs**: 38 · **Open PRs**: 6 · **Closed issues**: 17 · **Open issues**: 5 · **Commits**: 353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 0 | 2 | 7 | 0 | 0 | 2 |
-| last720d | 2024-11-21 | 0 | 10 | 7 | 4 | 0 | 29 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 0 | 2 | 6 | 0 | 0 | 2 |
+| last720d | 2024-11-22 | 0 | 10 | 6 | 4 | 0 | 29 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for td-cli lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:40:40Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:01:44Z._
