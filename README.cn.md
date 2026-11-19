@@ -31,8 +31,8 @@ x install td-cli
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install td-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 2 | 6 | 0 | 0 | 2 |
-| last720d | 2024-11-26 | 0 | 10 | 6 | 4 | 0 | 29 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 0 | 2 | 6 | 0 | 0 | 2 |
+| last720d | 2024-11-29 | 0 | 10 | 6 | 4 | 0 | 29 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ td-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:32:16Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:15:23Z._
